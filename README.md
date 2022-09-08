@@ -10,15 +10,13 @@ Oftentimes, college students resort to eating out, or ordering in on Uber Eats w
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+The targeted customer base would be people who are on the go, and do not have much leisure time to cook frequently. Some people that would constitute this description would be college students, corporate individuals who work long hours, or parents who aren't too cooking savvy
 
 ### How?
 
 A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+
+Although integration into a refridgerator screen would be optimal, our implementation will start as a website. The end user would plug in their fridge contents, and the amount they have. When they select the meal that they want to cook, the ingredients would immediately be taken out of the ingredients list. Whenever grocery shopping is done, the user could add what they bought, or if the grocery shopping is done online, there could be a feature that automatically fills up your inventory. 
 
 ### Scope
 
