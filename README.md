@@ -1,6 +1,6 @@
-Team Members: Isabel Chen (igc234), Noah Kim (ydk222), Derek Han (swh376)
 
-Fridge Compiler
+
+#### Fridge Compiler
 
 ### What and why?
 
@@ -22,3 +22,6 @@ Although integration into a refridgerator screen would be optimal, our implement
 This idea is both simple enough to finish this semester, but also not too complex that it would hold back the team. The different recipes would come from a database and essentially, the ingredients would be matched with those that the user provides. Additionally, the filters (for vegan, gluten free,...etc.) would be previously defined and upon a click of a filter, the ingredients that don't fit with the health need will not be looked at. Additionally, the UI can be as simple or complex as needed; it can simply have a bare bones ingredients input bar, filter bar, and search button. Or it could be more complex and have a more stylistic UI. 
 
 
+Team Members: Isabel Chen (igc234), Noah Kim (ydk222), Derek Han (swh376)
+
+Feel free to reach out to any one of us! :) 
