@@ -22,16 +22,3 @@ Although integration into a refridgerator screen would be optimal, our implement
 This idea is both simple enough to finish this semester, but also not too complex that it would hold back the team. The different recipes would come from a database and essentially, the ingredients would be matched with those that the user provides. Additionally, the filters (for vegan, gluten free,...etc.) would be previously defined and upon a click of a filter, the ingredients that don't fit with the health need will not be looked at. Additionally, the UI can be as simple or complex as needed; it can simply have a bare bones ingredients input bar, filter bar, and search button. Or it could be more complex and have a more stylistic UI. 
 
 
-## Submission
-
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
-
-If your proposal is selected, you are 99% guaranteed to be part of that team.
